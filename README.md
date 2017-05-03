@@ -84,7 +84,7 @@ Lastly, there is one more area that could be addressed in the future and that is
 
 ### <a name="deploy"></a>Deployment
 
-Chubot was deployed into Amazon Web Services EC2 instance using an [Ansible Playbook](). 
+Chubot was deployed into Amazon Web Services EC2 instance using an [Ansible Playbook](https://github.com/gms298/Chubot/tree/master/Deployment%20scripts). 
 
 ### <a name="video"></a>Video Presentation
 
