@@ -4,11 +4,15 @@ Chubot is a chat bot in the Slack platform, for REST-API programmers. Chubot is 
 
 ## Index
 
-1. [Introduction](#problem)
-2. [Primary Features & Screenshots](#primary)
-3. [Limitations and future work](#limit)
-4. [Deployment](#deploy)
-4. [Video Presentation](#video)
+1. [Video Presentation](#video)
+2. [Introduction](#problem)
+3. [Primary Features & Screenshots](#primary)
+4. [Limitations and future work](#limit)
+5. [Deployment](#deploy)
+
+## <a name="video"></a>Video Presentation
+
+[Here](https://youtu.be/snKSAnZ-YiE) is a link to the video presentation, demonstrating the entire project.
 
 ## <a name="problem"></a>Introduction
 Often developers use REST API requests in their projects when interacting within a platform. For example, many use Github - REST API requests to interact with Github for their version control or source code management needs. Coding REST-API requests into large projects/automated processes requires referring lengthy pages of online documentation to find the proper code-syntax or to find definitions of headers/parameters used in the REST API requests. More importantly, this process is often redundant when developers write lots of similar API requests in their projects. Hence, this process is time consuming for developers and provides an opportunity for automation. 
@@ -86,6 +90,3 @@ Lastly, there is one more area that could be addressed in the future and that is
 
 Chubot was deployed into Amazon Web Services EC2 instance using an [Ansible Playbook](https://github.com/gms298/Chubot/tree/master/Deployment%20scripts). 
 
-### <a name="video"></a>Video Presentation
-
-[Here](https://youtu.be/snKSAnZ-YiE) is a link to the video presentation, demonstrating the entire project.
